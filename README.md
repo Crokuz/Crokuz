@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi, my name is Leander :sheep::crescent_moon::sparkles:
+
+I'm currently studying att Mittuniversitetet in Sweden. 
+Check out my [portfolio](https://klmn.one/moment4/index.php).
 
 <!--
 **Crokuz/Crokuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
